@@ -12,4 +12,3 @@ done
 
 # Output
 echo "The sum of numbers between 1000 and 2000 with digits only from {0, 1} is: $sum"
-
